@@ -1,4 +1,4 @@
-![Banner](bannerjm.png)
+![Banner](bannerGitHub.png)
 
 <p align="center">
 
