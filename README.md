@@ -14,6 +14,6 @@
 
 <br>
 
-- 🔭 I’m currently learning data science
+- 🔭 I’m currently practicing Oracle's Mysql server. 
 - 💬 Ask me about data analytics, python, java and Front End development...
 - ⚡ 8th Semester - Systems Engineering
