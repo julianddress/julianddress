@@ -1,4 +1,4 @@
-![Banner](bannerGitHub.png)
+![Banner](BannerGH.png)
 
 <p align="center">
 
@@ -14,6 +14,6 @@
 
 <br>
 
-- 🔭 I’m currently practicing Oracle's Mysql server. 
-- 💬 Ask me about data analytics, python, java and Front End development...
-- ⚡ 8th Semester - Systems Engineering
+- 🔭 I’m currently learning Scrum - Agile Framework.
+- 💬 Ask me about c#, SQL and Front End development.
+- ⚡ 10th Semester - Systems Engineering
