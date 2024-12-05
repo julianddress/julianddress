@@ -14,6 +14,6 @@
 
 <br>
 
-- 🔭 I’m currently learning Scrum - Agile Framework.
-- 💬 Ask me about c#, SQL and Front End development.
-- ⚡ 10th Semester - Systems Engineering
+- 🔭 Focused on management with Scrum - Agile Framework.
+- 💬 Ask me about Front End development, SQL and Firebase.
+- ⚡ Persuing a System's Engineering degree.
