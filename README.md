@@ -14,6 +14,6 @@
 
 <br>
 
-- 🔭 Focused on management with Scrum - Agile Framework.
-- 💬 Ask me about Front End development, SQL and Firebase.
-- ⚡ Persuing a System's Engineering degree.
+- 🔭 Focused on management using the Scrum Agile Framework.
+- 💬 Ask me about Front-End development, SQL, and Supabase.
+- ⚡ Pursuing a degree in Systems Engineering.
